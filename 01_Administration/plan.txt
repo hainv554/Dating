@@ -1,0 +1,7 @@
+-đăng kí server, tạo web server, db server.
+-edit mockup
+-edit ERD -> tạo db
+-xây dựng web- UI
+-IOs - UI basic
+-xây dựng chức năng
+-thuyết trình
